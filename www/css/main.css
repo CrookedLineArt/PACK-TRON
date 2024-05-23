@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'AvenirBlack';
+    src: url('../avenir-lt-std/AvenirLTStd-Black.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirBlackOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-BlackOblique.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirBook';
+    src: url('../avenir-lt-std/AvenirLTStd-Book.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirBookOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-BookOblique.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirHeavy';
+    src: url('../avenir-lt-std/AvenirLTStd-Heavy.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirHeavyOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-HeavyOblique.otf') format('opentype');
+
+}
+
+@font-face {
+    font-family: 'AvenirLight';
+    src: url('../avenir-lt-std/AvenirLTStd-Light.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirLightOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-LightOblique.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirMedium';
+    src: url('../avenir-lt-std/AvenirLTStd-Medium.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirMediumOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-MediumOblique.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirOblique';
+    src: url('../avenir-lt-std/AvenirLTStd-Oblique.otf') format('opentype');
+
+}
+@font-face {
+    font-family: 'AvenirRoman';
+    src: url('../avenir-lt-std/AvenirLTStd-Roman.otf') format('opentype');
+
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+
+
+    color: #1B4839;
+    
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'AvenirBlack';
+    
+}
+
+
+h1 {
+padding-top: 10px;
+font-size: 25px;
+
+}
+
+mark {
+    background-color: aliceblue;
+    
+  }
+p, span {
+    font-family: 'AvenirRoman';
+    letter-spacing: 0.01ch;
+    max-width: 45ch;    
+    
+}
